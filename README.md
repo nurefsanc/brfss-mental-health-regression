@@ -1,13 +1,14 @@
 # CDC BRFSS 2024 Veri Seti Üzerinde Ruh Sağlığı ve Yaşam Tarzı Korelasyonunun Makine Öğrenmesi Yaklaşımlarıyla Analizi
 
-Bu proje, Kocaeli Üniversitesi "Makine Öğrenmesinin İlkeleri" dersi kapsamında geliştirilmiştir. Çalışmanın temel amacı, Centers for Disease Control and Prevention (CDC) tarafından yayımlanan Behavioral Risk Factor Surveillance System (BRFSS) 2024 veri seti kullanılarak bireylerin ruh sağlığı durumu ile yaşam tarzı faktörleri arasındaki doğrusal ilişkiyi modellemektir. 
+Bu çalışmanın temel amacı, Centers for Disease Control and Prevention (CDC) tarafından yayımlanan Behavioral Risk Factor Surveillance System (BRFSS) 2024 veri seti kullanılarak bireylerin ruh sağlığı durumu ile yaşam tarzı faktörleri arasındaki doğrusal ilişkiyi modellemektir. 
 
 Model, bireylerin "kötü ruh sağlığı yaşadığı gün sayısını" tahmin edebilen, hiperparametreleri optimize edilmiş düzenlileştirilmiş bir Ridge Regresyon (L2) algoritmasına dayanmaktadır.
 
 ## 👥 Geliştiriciler
 * **Nurefşan Çapoğlu** 
-* **Amine Andıç** 
-* **Kurum:** Kocaeli Üniversitesi, Yapay Zeka ve Makine Öğrenmesi
+* **Amine Andıç**
+* **Zakieh Ahmed Sa'ıd Abu-Hassan**
+* **Ceyda Culfa**
 
 ---
 
