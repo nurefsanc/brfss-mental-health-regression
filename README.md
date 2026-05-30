@@ -5,8 +5,8 @@ Bu proje, Kocaeli Üniversitesi "Makine Öğrenmesinin İlkeleri" dersi kapsamı
 Model, bireylerin "kötü ruh sağlığı yaşadığı gün sayısını" tahmin edebilen, hiperparametreleri optimize edilmiş düzenlileştirilmiş bir Ridge Regresyon (L2) algoritmasına dayanmaktadır.
 
 ## 👥 Geliştiriciler
-* **Nurefşan Çapoğlu** (Öğrenci No: 250121017)
-* **Amine Andıç** (Öğrenci No: 250121027)
+* **Nurefşan Çapoğlu** 
+* **Amine Andıç** 
 * **Kurum:** Kocaeli Üniversitesi, Yapay Zeka ve Makine Öğrenmesi
 
 ---
