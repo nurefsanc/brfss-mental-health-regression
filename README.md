@@ -9,6 +9,7 @@ Model, bireylerin "kötü ruh sağlığı yaşadığı gün sayısını" tahmin 
 * **Amine Andıç**
 * **Zakieh Ahmed Sa'ıd Abu-Hassan**
 * **Ceyda Culfa**
+* **Ali Efe Yaman**
 
 ---
 
